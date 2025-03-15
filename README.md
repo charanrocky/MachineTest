@@ -8,12 +8,14 @@ This is a MERN stack application that allows an Admin User to:
 ✅ Add Agents
 ✅ Upload CSV and Distribute Tasks
 ✅ View Distributed Tasks
+
 Features
 ✅ Admin Login (with JWT)
 ✅ Agent Management (Add Agents)
 ✅ Upload CSV, Validate Format & Distribute Tasks to Agents
 ✅ Display Distributed Tasks for Each Agent
 ✅ Secure Authentication with JWT
+
 Setup and Execution
 PORT=5000
 MONGO_URI=mongodb://localhost:27017/taskmanagement
@@ -74,4 +76,4 @@ Mike Johnson,1231231234,Product feedback
 How to Run:
 
 open backend folder and add node server.js
-open frontend folder and add npm run dev
+open frontend folder and add npm run dev in cmd
